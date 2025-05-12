@@ -1,6 +1,6 @@
 {
   "name": "cursorx-interactive-cursor-effects",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "20+ custom cursor effects for developers with live interactive previews, copy-paste code snippets, AI prompts, and a full config panel. Built with React + Canvas API.",
   "main": "src/index.js",
   "scripts": {
