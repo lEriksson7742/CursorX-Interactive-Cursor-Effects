@@ -7,3 +7,4 @@ Notes and usage details for CursorX-Interactive-Cursor-Effects.
 - fix a small wording issue
 - add a note about the defaults
 - fix a small wording issue
+- add a note about the defaults
