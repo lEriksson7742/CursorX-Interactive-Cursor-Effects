@@ -25,3 +25,4 @@ Notes and usage details for CursorX-Interactive-Cursor-Effects.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
